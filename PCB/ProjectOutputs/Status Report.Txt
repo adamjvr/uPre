@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [uPre.PrjPCB]
+   Generated File[uPre.GTS]
+   Generated File[uPre.GBS]
+   Generated File[uPre.RUL]
+   Generated File[uPre.EXTREP]
+   Generated File[uPre.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 4:06:51 PM On 7/29/2014
