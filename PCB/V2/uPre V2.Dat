@@ -1,0 +1,15 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~uPre V2.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\uPre\PCB\V2\uPre V2.PrjPcb|ReportField=Title~Bill of Materials For Project [uPre V2.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~22|ReportField=ReportTime~3:01:35 PM|ReportField=ReportDate~5/12/2016|ReportField=ReportDateTime~5/12/2016 3:01:35 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~5/12/2016|ReportField=CurrentTime~3:01:34 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\uPre\PCB\V2\uPre V2.SchDoc|ReportField=DocumentName~uPre V2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~5/11/2016|ReportField=Organization~|ReportField=ProjectName~uPre V2.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~uPre V2.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\uPre\PCB\V2\uPre V2.PrjPcb
+1|10uF|CAP ALUM 10UF 20% 16V RADIAL|C1, C2, C5|4X6mmCAP|UMW1C100MDD1TP|3
+2|0.22uF|CAP ALUM 0.22UF 20% 50V RADIAL|C3, C4|4X6mmCAP|UMW1HR22MDD1TP|2
+3|47uF|CAP ALUM 47UF 20% 25V RADIAL|C6, C7|5X12.5mmCAP - BLUE|UKA1E470MDD1TD|2
+4|Header 3|Header, 3-Pin|P1, P2|HDR1X3|Header 3|2
+5|Header 2|Header, 2-Pin|P3, P4|HDR1X2|Header 2|2
+6|10K|RES SMD 10K OHM 1% 1/8W 0805|R1|R0805|ERJ-6ENF1002V|1
+7|2.2M|RES SMD 2.2M OHM 1% 1/8W 0805|R2, R4|R0805|RC2012F225CS|2
+8|1K|RES SMD 1K OHM 1% 1/8W 0805|R3, R7|R0805|RC2012F102CS|2
+9|100K|POT 100K OHM 1/20W CARBON LINEAR|R5|BOURNS_PTD90SERIES_POT|PTD901-2015K-B104|1
+10|20K|POT 20K OHM 1/20W CARBON LINEAR|R6|BOURNS_PTD90SERIES_POT|PTD901-2015K-B203|1
+11|220r|RES SMD 220 OHM 1% 1/8W 0805|R8|R0805|RC2012F221CS|1
+12|100K|RES SMD 100K OHM 1% 1/8W 0805|R9|R0805|ERJ-6ENF1003V|1
+13|220K|RES SMD 220K OHM 1% 1/8W 0805|R10|R0805|RC2012F224CS|1
+14|RC4580IDR|IC OPAMP AUDIO 12MHZ 8SOIC Low Noise, High Performance, High Fidelity Dual Audio Operational Amplifier, 8-pin Narrow SOIC|U1|SOIC127P600X175-8N|RC4580IDR|1
